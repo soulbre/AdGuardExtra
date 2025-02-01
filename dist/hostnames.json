@@ -1,6 +1,7 @@
 {
     "version": "1.0.658",
     "hosts": [
+        "rezka.ag",
         "*.livejournal.com",
         "*.sdamgia.ru",
         "24smi.org",
